@@ -1,0 +1,2 @@
+# premium-lime-kiln-001-lime-kiln-construction-planner
+Building a traditional lime kiln demands precision planning across materials, timeline, and labor—yet most builders rely on scattered spreadsheets and incomplete checklists that lead to costly delays and material waste.  The Lime Kiln Construction Planner Template is a pre-built Notion automation designed specifically for traditional lime-burning p
